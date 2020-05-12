@@ -1,5 +1,5 @@
 # Credit-Default-Risk-Prediction
-**The goal of the project is to predict whether or not a customer will deafult on their loan. 
+**The goal of the project is to predict whether or not a customer will default on their loan. 
 The dataset used for this project was part of a Kaggle competition sponsored by Home Credit.**
 
 - **Performed exploratory data analysis in Python on a data set consisting of 370,000 rows, using statistical analysis and visualization. Performed feature engineering by aggregating and merging multiple data sources.**
